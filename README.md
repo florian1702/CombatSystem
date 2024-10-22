@@ -28,11 +28,6 @@
 
 <h3 align="center">Unreal Engine Combat System</h3>
 
-  <p align="center">
-    The combat system in Unreal Engine 5 for this project is designed to be animation-independent and primarily written in C++. It leverages Unreal's Gameplay Ability System (GAS).
-    Currently, several features are still in development, including enemy AI using Behavior Trees, special abilities, a blocking and parrying system, target lock functionality, and a dynamic UI to support combat interactions.  
-  </p>
-
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -41,8 +36,23 @@
   
 [![Combat System YouTube Video](https://img.youtube.com/vi/rIfe5ikAUFA/0.jpg)](https://youtu.be/rIfe5ikAUFA)
 
+The combat system in Unreal Engine 5 for this project is designed to be animation-independent and primarily written in C++. It leverages Unreal's Gameplay Ability System (GAS).
+Currently, several features are still in development, including enemy AI using Behavior Trees, special abilities, a blocking and parrying system, target lock functionality, and a dynamic UI to support combat interactions.  
+
+</div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Enemy AI
+- [ ] Special abilities
+- [ ] blocking and parrying system
+- [ ] Target lock
+- [ ] UI
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
